@@ -1,7 +1,6 @@
 # t1
 
-# Cia tik testas
-
+## Cia tik testas
 
 Foo *bar* **baz**
 
@@ -10,8 +9,8 @@ Foo *bar* **baz**
 3. werwrfwerwer
 4. werwrfwerwer
 
-
 [I'm an inline-style link](https://www.google.com)
+
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
